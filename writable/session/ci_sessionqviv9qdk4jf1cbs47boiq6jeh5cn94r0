@@ -1,0 +1,1 @@
+__ci_last_regenerate|i:1687779392;_ci_old_input|a:2:{s:3:"get";a:0:{}s:4:"post";a:3:{s:10:"user_email";s:23:"rachnakum0476@gmail.com";s:13:"user_password";s:0:"";s:5:"login";s:5:"login";}}__ci_vars|a:2:{s:13:"_ci_old_input";s:3:"new";s:21:"_ci_validation_errors";s:3:"new";}_ci_validation_errors|a:1:{s:13:"user_password";s:36:"The user_password field is required.";}
